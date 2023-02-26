@@ -1,4 +1,4 @@
-### 🔨 Languages and Tools(WIP):
+### 🔨 Languages and Tools (WIP):
 <a href="https://www.scala-lang.org/" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" alt="scala" height="42px"/> </a> 
 
 <br>
