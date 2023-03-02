@@ -1,5 +1,8 @@
+# Hi :wave:
+
 ### 🔨 Languages and Tools (WIP):
-<a href="https://www.scala-lang.org/" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" alt="scala" height="42px"/> </a> 
+<a href="https://www.scala-lang.org/" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" alt="scala" height="42px"/> </a>
+<a href="https://typelevel.org/cats-effect/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/typelevel/cats-effect/series/3.x/images/cats-effect-logo.png" alt="cats-effect" height="42px"/> </a>
 
 <br>
 <br>
