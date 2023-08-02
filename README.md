@@ -20,4 +20,4 @@
 
 <!-- Leetcode Stats -->
 ### Leetcode
-[![Leetcode Stats](https://leetcard.jacoblin.cool/callmestech?ext=activity&theme=wtf)](https://leetcode.com/callmestech/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/callmestech?&theme=wtf)](https://leetcode.com/callmestech/)
