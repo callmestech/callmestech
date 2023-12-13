@@ -1,4 +1,4 @@
-# Hi there:wave: I'm Sergei
+# Hi there :wave: I'm Sergei
 
 - 🌱  I’m currently learning: Rust
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/sergei-kharchikov-9b01bb1b4/)
