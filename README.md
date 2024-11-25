@@ -14,12 +14,11 @@
 
 <!-- Github stats -->
 ### 📊 Github Stats
-<!---
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=callmestech&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=stars" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmestech&layout=compact&theme=buefy&hide_border=true&hide=css,shell" /></a> |
--->
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmestech&layout=compact&theme=buefy&hide_border=true&hide=css,shell" /></a> |
-| ------------- |
-<!-- | ------------- | ------------- | -->
+![](https://raw.githubusercontent.com/callmestech/github-stats-rs/master//resources/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/callmestech/github-stats-rs/master/resources/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/callmestech/github-stats-rs/master/resources/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/callmestech/github-stats/master/resources/generated/languages.svg#gh-light-mode-only)
 
 
 <!-- Leetcode Stats -->
