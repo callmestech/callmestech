@@ -14,11 +14,11 @@
 
 <!-- Github stats -->
 ### 📊 Github Stats
-![](https://raw.githubusercontent.com/callmestech/github-stats-rs/master//resources/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/callmestech/github-stats-rs/master/resources/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/callmestech/github-stats-rs/master/resources/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/callmestech/github-stats-rs/master/resources/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/callmestech/github-stats/master/resources/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/callmestech/github-stats-rs/master/resources/generated/languages.svg#gh-light-mode-only)
 
 
 <!-- Leetcode Stats -->
