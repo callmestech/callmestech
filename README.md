@@ -1,6 +1,6 @@
 # Hi there :wave: I'm Sergei
 
-- 🌱  I’m currently learning: Rust
+- 🌱  I’m currently learning: Blockchain
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/sergei-kharchikov-9b01bb1b4/)
 
 <!---
