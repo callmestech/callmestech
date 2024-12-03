@@ -1,6 +1,4 @@
-# Hi there :wave: I'm Sergei
-
-- 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/sergei-kharchikov-9b01bb1b4/)
+💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/sergei-kharchikov-9b01bb1b4/)
 
 <!---
 ### 🔨 Languages and Tools (WIP):
@@ -12,7 +10,7 @@
 <!-- <br> -->
 
 <!-- Github stats -->
-### 📊 Github Stats
+<!-- ### 📊 Github Stats -->
 
 <a href="https://github.com/callmestech/github-stats-rs">
 <img src="https://github.com/callmestech/github-stats-rs/blob/master/resources/generated/overview.svg#gh-dark-mode-only" />
