@@ -1,4 +1,4 @@
-💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/sergei-kharchikov-9b01bb1b4/)
+<!--- 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/sergei-kharchikov-9b01bb1b4/)
 
 <!---
 ### 🔨 Languages and Tools (WIP):
