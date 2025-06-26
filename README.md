@@ -11,7 +11,7 @@
 
 <!-- Github stats -->
 <!-- ### 📊 Github Stats -->
-
+<!--
 <a href="https://github.com/callmestech/github-stats-rs">
 <img src="https://github.com/callmestech/github-stats-rs/blob/master/resources/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/callmestech/github-stats-rs/blob/master/resources/generated/languages.svg#gh-dark-mode-only" />
